@@ -1,1 +1,1 @@
-Machine Learning and Data Mining using python ~
+Machine Learning and Data Mining using Python ~
